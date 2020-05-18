@@ -1,5 +1,8 @@
 # CloneFlappyBird
 An android application created without using the game engine.
+
+
+
 Oyun içi görselleri :
   ![4](https://user-images.githubusercontent.com/47135878/82228353-b063d000-9931-11ea-986e-37f80ba62f24.png)
   
