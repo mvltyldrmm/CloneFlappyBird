@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "873044960574",
+    "firebase_url": "https://warriorbird-fd7b1.firebaseio.com",
+    "project_id": "warriorbird-fd7b1",
+    "storage_bucket": "warriorbird-fd7b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873044960574:android:7825908cf04e294066f86f",
+        "android_client_info": {
+          "package_name": "com.example.oyuntasarim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873044960574-j93naq875e7248qcpo31abq4f5qmet8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oyuntasarim",
+            "certificate_hash": "9802c91f706674c14e96ff8da100577d3f02f08d"
+          }
+        },
+        {
+          "client_id": "873044960574-c86tkoeb9mjaaknppgs0cci1fof3qjjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPzk0KICmhepefxEeOabnkkJYDvUIdU7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873044960574-c86tkoeb9mjaaknppgs0cci1fof3qjjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
