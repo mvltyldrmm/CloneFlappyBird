@@ -1,4 +1,4 @@
-# CloneFlappyBird
+# MYflappybird
 An android application created without using the game engine.
 
 
